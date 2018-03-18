@@ -29,10 +29,10 @@
 </div>
 <div class="right">
     <ul>
-      - All applications are just some sort of task/worker (does things), workloads may be different
-      - Needs to run on something (server, local desktop, etc.)
-      - Usually needs to talk to other things through via network
-      - Would be good if it's secure
+      * All applications are just some sort of task/worker (does things), workloads may be different
+      * Needs to run on something (server, local desktop, etc.)
+      * Usually needs to talk to other things through via network
+      * Would be good if it's secure
     </ul>
 </div>
 
