@@ -2,9 +2,10 @@
 
 <br>
 Jeffrey Chan
+<br>
 @fa[twitter gp-contact](@jgmchan)
 @fa[github gp-contact](https://github.com/jgmchan)
-@fa[enveloper gp-contact](jgmchan@gmail.com)
+@fa[envelope gp-contact](jgmchan@gmail.com)
 
 ---
 # What is Kubernetes?
