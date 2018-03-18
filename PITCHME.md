@@ -1,6 +1,20 @@
-# Beige
+# Kubernetes and Elixir
 
-### A GitPitch Presentation Template
+### A quick introduction
+
+?image=assets/image/so_hot_right_now.jpg
+
+---
+# What is Kubernetes?
+
+> Kubernetes is a portable, extensible open-source platform for managing containerized workloads and services, that facilitates both declarative configuration and automation.
+  - https://kubernetes.io/docs/concepts/overview/what-is-kubernetes/
+
+---
+# My interpretation
+- Distributed platform to run anything, as long as it's containers
+- Batteries included (networks, securities, service discovery, secrets)
+- "Easier" to automate
 
 ---
 
@@ -73,7 +87,7 @@ http.createServer(function (request, response) {
 ## Template Help
 
 - [Code Presenting](https://github.com/gitpitch/gitpitch/wiki/Code-Presenting)
-  + [Repo Source](https://github.com/gitpitch/gitpitch/wiki/Code-Delimiter-Slides), [Static Blocks](https://github.com/gitpitch/gitpitch/wiki/Code-Slides), [GIST](https://github.com/gitpitch/gitpitch/wiki/GIST-Slides) 
+  + [Repo Source](https://github.com/gitpitch/gitpitch/wiki/Code-Delimiter-Slides), [Static Blocks](https://github.com/gitpitch/gitpitch/wiki/Code-Slides), [GIST](https://github.com/gitpitch/gitpitch/wiki/GIST-Slides)
 - [Custom CSS Styling](https://github.com/gitpitch/gitpitch/wiki/Slideshow-Custom-CSS)
 - [Slideshow Background Image](https://github.com/gitpitch/gitpitch/wiki/Background-Setting)
 - [Slide-specific Background Images](https://github.com/gitpitch/gitpitch/wiki/Image-Slides#background)
@@ -113,7 +127,7 @@ http.createServer(function (request, response) {
 
 ---?image=assets/image/gitpitch-audience.jpg
 
-@title[Fork this Template!]
+@tile[Fork this Template!]
 
 ### <span class="white">Get your presentation started!</span>
 ### [Download this template @fa[external-link gp-download]](https://gitpitch.com/template/download/beige)
