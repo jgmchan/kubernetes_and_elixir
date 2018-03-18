@@ -1,8 +1,11 @@
 # Kubernetes and Elixir
 
 Jeffrey Chan
+
 @fa[twitter gp-contact](@jgmchan)
+
 @fa[github gp-contact](https://github.com/jgmchan)
+
 @fa[email gp-contact](jgmchan@gmail.com)
 
 ---
@@ -12,6 +15,7 @@ Jeffrey Chan
 ![So hot right now](./assets/image/so_hot_right_now.jpg)
 
 ---
+
 > Kubernetes is a portable, extensible open-source platform for managing containerized workloads and services, that facilitates both declarative configuration and automation.
 > - https://kubernetes.io/docs/concepts/overview/what-is-kubernetes/
 
