@@ -9,7 +9,9 @@
 # What is Kubernetes?
 
 ---
+<br>
 ![So hot right now](./assets/image/so_hot_right_now.jpg)
+</br>
 
 ---
 
