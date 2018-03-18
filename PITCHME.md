@@ -1,11 +1,10 @@
 # Kubernetes and Elixir
 
+<br>
 Jeffrey Chan
-<br></br>
-
 @fa[twitter gp-contact](@jgmchan)
 @fa[github gp-contact](https://github.com/jgmchan)
-@fa[mail gp-contact](jgmchan@gmail.com)
+@fa[enveloper gp-contact](jgmchan@gmail.com)
 
 ---
 # What is Kubernetes?
