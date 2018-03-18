@@ -1,6 +1,6 @@
 # Kubernetes and Elixir
 
-## Jeffrey Chan
+### Jeffrey Chan
 @fa[twitter gp-contact](@jgmchan)
 @fa[github gp-contact](https://github.com/jgmchan)
 @fa[envelope gp-contact](jgmchan@gmail.com)
