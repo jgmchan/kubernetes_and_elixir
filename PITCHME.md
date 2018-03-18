@@ -1,22 +1,40 @@
 # Kubernetes and Elixir
 
-### A quick introduction
-
-?image=assets/image/so_hot_right_now.jpg
+Jeffrey Chan
+@fa[twitter gp-contact](@jgmchan)
+@fa[github gp-contact](https://github.com/jgmchan)
+@fa[email gp-contact](jgmchan@gmail.com)
 
 ---
 # What is Kubernetes?
+---?image=assets/image/so_hot_right_now.jpg
 
+---
 > Kubernetes is a portable, extensible open-source platform for managing containerized workloads and services, that facilitates both declarative configuration and automation.
-  - https://kubernetes.io/docs/concepts/overview/what-is-kubernetes/
+> - https://kubernetes.io/docs/concepts/overview/what-is-kubernetes/
 
 ---
 # My interpretation
+
 - Distributed platform to run anything, as long as it's containers
 - Batteries included (networks, securities, service discovery, secrets)
-- "Easier" to automate
+- "Easier" to automate because you don't need to script
 
 ---
+# Digression: Docker Containers
+
+* Different types of container like LXC, Solaris Zones, Rkt
+* Think of it as a packaging system for your app and all it's dependencies (including OS libraries), which also contains
+  hooks to run the application safely inside the package (container)
+* Not a Virtual Machine
+* Images are sharable through a "Docker Registry", e.g. [Dockerhub](https://hub.docker.com/), [Google Container Engine (GKE)](https://cloud.google.com/kubernetes-engine/) or your own internal registry.
+    * This means I can build an image which anyone (or system) can pull down and run, provided they have Docker installed
+    * In general, this means I can build and compile something locally, test it and push it up and be fairly sure it will work in other places
+
+---
+## Basic Concepts
+
+
 
 ## Tips!
 
