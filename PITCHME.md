@@ -7,6 +7,7 @@ Jeffrey Chan
 
 ---
 # What is Kubernetes?
+
 [](?image=assets/image/so_hot_right_now.jpg)
 
 ---
