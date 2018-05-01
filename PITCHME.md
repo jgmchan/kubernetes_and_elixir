@@ -58,6 +58,7 @@
     * Jobs - These are just single tasks which runs to completion X number of times
     * Cronjobs - Tasks which run on schedule
 
+---
 ## Digression: Docker Containers
 
 * Different types of container like LXC, Solaris Zones, Rkt
@@ -68,6 +69,7 @@
     * This means I can build an image which anyone (or system) can pull down and run, provided they have Docker installed
     * In general, this means I can build and compile something locally, test it and push it up and be fairly sure it will work in other places
 
+---
 ## Kubernetes Concepts - Services, Load Balancing and Networking
 
 * Quite complicated but the basic concepts are:
@@ -75,6 +77,7 @@
   * Ingress - Internal rules to control what can and cannot be accessed, e.g. paths/routes. Like NGINX configuration
   * DNS - A way to find other services in the cluster
 
+---
 ## Elixir and Kubernetes
 
 * BEAM VM and Kubernetes offer similar capabilities:
@@ -88,6 +91,7 @@
 * Kubernetes is designed for general workloads (any language), Day 2 Operations and Enterprise
 * BEAM VM is only for Beam languages and does not do things like network security, IP management.
 
+---
 ## Why use Docker and Kubernetes
 
 * When you have multiple
