@@ -24,16 +24,18 @@
 ---
 ## Basic Platform Concepts
 <br>
-<div class="left">
-![Typical Application](./assets/image/.jpg)
-</div>
-<div class="right">
-    <ul>
-     <li>All applications are just some sort of task/worker (does things), workloads may be different</li>
-     <li>Needs to run on something (server, local desktop, etc.)</li>
-     <li>Usually needs to talk to other things through via network</li>
-     <li>Would be good if it's secure</li>
-    <ul>
+<div>
+  <div class="left">
+  ![Typical Application](./assets/image/.jpg)
+  </div>
+  <div class="right">
+      <ul>
+       <li>All applications are just some sort of task/worker (does things), workloads may be different</li>
+       <li>Needs to run on something (server, local desktop, etc.)</li>
+       <li>Usually needs to talk to other things through via network</li>
+       <li>Would be good if it's secure</li>
+      <ul>
+  </div>
 </div>
 
 ---
