@@ -17,6 +17,7 @@
 ---
 ## My interpretation
 
+![Typical Application](/assets/image/typical_application.png)
 - Distributed platform to run anything, as long as it's containers
 - Batteries included (networks, security, service discovery, secrets)
 - "Easier" to automate because you don't need to script
