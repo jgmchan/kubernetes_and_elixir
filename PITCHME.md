@@ -26,7 +26,7 @@
 <br>
 <div>
   <div class="left">
-  ![Typical Application](./assets/image/.jpg)
+  ![Typical Application](./assets/image/typical_application.png)
   </div>
   <div class="right">
       <ul>
