@@ -11,4 +11,3 @@ theme-override : assets/css/PITCHME.css
 highlight : hybrid
 transition : none
 published : true
-footnote : "GitPitch [ Beige ] Presentation Template"
